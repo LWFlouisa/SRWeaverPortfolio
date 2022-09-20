@@ -1,0 +1,15 @@
+# Site settings
+title: "S.R. Weaver Portfolio"
+tag_text: Biscuit
+description: My single page responsive website.
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
