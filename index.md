@@ -18,9 +18,7 @@ layout: default
 This is a work in progress portfolio.
 
 ### Illustration
-<center>
 ![Illustration 1](https://github.com/LWFlouisa/SRWeaverPortfolio/blob/main/ArtWork/osenerosdeux.png?raw=true)
-</center>
 
 ### Sheet Music
 ![Page 1](https://github.com/LWFlouisa/music/blob/main/musescore/Sana%20Miya:%20Mixopentatonic_piano-1.png?raw=true)
