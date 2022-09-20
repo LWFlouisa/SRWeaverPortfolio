@@ -15,7 +15,7 @@ layout: default
   }
 </style>
 ### Blog
-[]()
+[Sept 09 20 Welcome](https://lwflouisa.github.io/SRWeaverPortfolio/Posts/2022-09-20-introduction.html)
 
 ### Illustration
 ![Illustration 1](https://github.com/LWFlouisa/SRWeaverPortfolio/blob/main/ArtWork/osenerosdeux.png?raw=true)
