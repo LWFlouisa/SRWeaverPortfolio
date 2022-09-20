@@ -14,8 +14,8 @@ layout: default
     color: blue;
   }
 </style>
-## Portfolio Website
-This is a work in progress portfolio.
+### Blog
+[]()
 
 ### Illustration
 ![Illustration 1](https://github.com/LWFlouisa/SRWeaverPortfolio/blob/main/ArtWork/osenerosdeux.png?raw=true)
