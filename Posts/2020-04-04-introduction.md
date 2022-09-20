@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Introduction
+layout: default
 ---
-## Portfolio Website
-This is a work in progress portfolio.
+## Welcome
+Welcome to my new Portfolio site.
