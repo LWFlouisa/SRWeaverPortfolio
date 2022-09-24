@@ -23,5 +23,5 @@ layout: default
 ### Sheet Music
 
 #### Sana Miya Pentatonic
-[Sana Miya Mixopentatonic 1](https://github.com/LWFlouisa/music/blob/main/musescore/Sana%20Miya:%20Mixopentatonic_piano-1.png?raw=true)
+[Sana Miya Mixopentatonic 1](https://github.com/LWFlouisa/music/blob/main/musescore/Sana%20Miya:%20Mixopentatonic_piano-1.png?raw=true)<br />
 [Sana Miya Mixopentatonic 2](https://github.com/LWFlouisa/music/blob/main/SanaMiyaMixopentatonic/Sana%20Miya:%20Mixopentatonic_piano-2.png?raw=true)
