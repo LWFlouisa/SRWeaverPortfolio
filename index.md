@@ -14,12 +14,14 @@ layout: default
     color: blue;
   }
 </style>
-### Blog
+## Blog
 [Sept 09 20 Welcome](https://lwflouisa.github.io/SRWeaverPortfolio/Posts/2022-09-20-introduction.html)
 
 ### Illustration
 ![Illustration 1](https://github.com/LWFlouisa/SRWeaverPortfolio/blob/main/ArtWork/osenerosdeux.png?raw=true)
 
 ### Sheet Music
-![Page 1](https://github.com/LWFlouisa/music/blob/main/musescore/Sana%20Miya:%20Mixopentatonic_piano-1.png?raw=true)
-![Page 2](https://github.com/LWFlouisa/music/blob/main/SanaMiyaMixopentatonic/Sana%20Miya:%20Mixopentatonic_piano-2.png?raw=true)
+
+#### Sana Miya Pentatonic
+[Sana Miya Mixopentatonic 1](https://github.com/LWFlouisa/music/blob/main/musescore/Sana%20Miya:%20Mixopentatonic_piano-1.png?raw=true)
+[Sana Miya Mixopentatonic 2](https://github.com/LWFlouisa/music/blob/main/SanaMiyaMixopentatonic/Sana%20Miya:%20Mixopentatonic_piano-2.png?raw=true)
